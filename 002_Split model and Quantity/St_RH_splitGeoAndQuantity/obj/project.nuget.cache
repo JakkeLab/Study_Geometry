@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Al5AJ1754d0c8X9prEVXgSRiJZB92JUcmEEC53PDsifleu1dXTB9CC0J8QeFluP8+soe2SujjayTP01Y25IBZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jake\\OneDrive\\JAKK3 Lab\\DEV\\0_Study\\2-1_Algorithm\\01_Geometrics\\002_Split model and Quantity\\St_RH_splitGeoAndQuantity\\St_RH_splitGeoAndQuantity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jake\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

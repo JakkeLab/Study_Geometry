@@ -1,0 +1,9 @@
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\2-1_Algorithm\01_Geometrics\003_IntersectionTest\IntersectionTest\IntersectionTest\bin\Debug\net48\IntersectionTest.rhp
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\2-1_Algorithm\01_Geometrics\003_IntersectionTest\IntersectionTest\IntersectionTest\bin\Debug\net48\IntersectionTest.pdb
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\2-1_Algorithm\01_Geometrics\003_IntersectionTest\IntersectionTest\IntersectionTest\obj\Debug\net48\IntersectionTest.csproj.AssemblyReference.cache
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\2-1_Algorithm\01_Geometrics\003_IntersectionTest\IntersectionTest\IntersectionTest\obj\Debug\net48\IntersectionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\2-1_Algorithm\01_Geometrics\003_IntersectionTest\IntersectionTest\IntersectionTest\obj\Debug\net48\IntersectionTest.AssemblyInfoInputs.cache
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\2-1_Algorithm\01_Geometrics\003_IntersectionTest\IntersectionTest\IntersectionTest\obj\Debug\net48\IntersectionTest.AssemblyInfo.cs
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\2-1_Algorithm\01_Geometrics\003_IntersectionTest\IntersectionTest\IntersectionTest\obj\Debug\net48\IntersectionTest.csproj.CoreCompileInputs.cache
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\2-1_Algorithm\01_Geometrics\003_IntersectionTest\IntersectionTest\IntersectionTest\obj\Debug\net48\IntersectionTest.rhp
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\2-1_Algorithm\01_Geometrics\003_IntersectionTest\IntersectionTest\IntersectionTest\obj\Debug\net48\IntersectionTest.pdb

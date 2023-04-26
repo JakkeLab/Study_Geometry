@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yGhSMlRFQxdUyY2wV3+2bU8mlJd/GQ3osuWebS6zjGD1MCf6tVtHRJUJ2DyoA5MOl3livv6Hg5Ncxew+IX3Pxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jake\\OneDrive\\JAKK3 Lab\\03_DEV\\00_Study\\2-1_Algorithm\\01_Geometrics\\003_IntersectionTest\\IntersectionTest\\IntersectionTest\\IntersectionTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jake\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

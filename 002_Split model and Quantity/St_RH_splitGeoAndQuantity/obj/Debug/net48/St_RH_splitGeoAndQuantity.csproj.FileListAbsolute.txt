@@ -1,0 +1,9 @@
+C:\Users\Jake\OneDrive\JAKK3 Lab\DEV\0_Study\2-1_Algorithm\01_Geometrics\002_Split model and Quantity\St_RH_splitGeoAndQuantity\bin\Debug\net48\St_RH_splitGeoAndQuantity.rhp
+C:\Users\Jake\OneDrive\JAKK3 Lab\DEV\0_Study\2-1_Algorithm\01_Geometrics\002_Split model and Quantity\St_RH_splitGeoAndQuantity\bin\Debug\net48\St_RH_splitGeoAndQuantity.pdb
+C:\Users\Jake\OneDrive\JAKK3 Lab\DEV\0_Study\2-1_Algorithm\01_Geometrics\002_Split model and Quantity\St_RH_splitGeoAndQuantity\obj\Debug\net48\St_RH_splitGeoAndQuantity.csproj.AssemblyReference.cache
+C:\Users\Jake\OneDrive\JAKK3 Lab\DEV\0_Study\2-1_Algorithm\01_Geometrics\002_Split model and Quantity\St_RH_splitGeoAndQuantity\obj\Debug\net48\St_RH_splitGeoAndQuantity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\OneDrive\JAKK3 Lab\DEV\0_Study\2-1_Algorithm\01_Geometrics\002_Split model and Quantity\St_RH_splitGeoAndQuantity\obj\Debug\net48\St_RH_splitGeoAndQuantity.AssemblyInfoInputs.cache
+C:\Users\Jake\OneDrive\JAKK3 Lab\DEV\0_Study\2-1_Algorithm\01_Geometrics\002_Split model and Quantity\St_RH_splitGeoAndQuantity\obj\Debug\net48\St_RH_splitGeoAndQuantity.AssemblyInfo.cs
+C:\Users\Jake\OneDrive\JAKK3 Lab\DEV\0_Study\2-1_Algorithm\01_Geometrics\002_Split model and Quantity\St_RH_splitGeoAndQuantity\obj\Debug\net48\St_RH_splitGeoAndQuantity.csproj.CoreCompileInputs.cache
+C:\Users\Jake\OneDrive\JAKK3 Lab\DEV\0_Study\2-1_Algorithm\01_Geometrics\002_Split model and Quantity\St_RH_splitGeoAndQuantity\obj\Debug\net48\St_RH_splitGeoAndQuantity.rhp
+C:\Users\Jake\OneDrive\JAKK3 Lab\DEV\0_Study\2-1_Algorithm\01_Geometrics\002_Split model and Quantity\St_RH_splitGeoAndQuantity\obj\Debug\net48\St_RH_splitGeoAndQuantity.pdb
